@@ -49,6 +49,37 @@ Explore more: [https://dexvolumebot.com](https://dexvolumebot.com)
 - **Fatality Volume Bot**
 - **Moonshot Volume Bot**
 
+## 🚀 Getting Started
+
+Follow these steps to set up and run the **Solana DEX Volume Bot** on your system.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kullaniciadi/solana-dex-volume-bot.git
+cd solana-dex-volume-bot
+
+## 2. Install Dependencies
+
+pip install -r requirements.txt
+
+## 3. Configure the Bot
+
+Edit the config.json file to add your Solana wallet address, RPC endpoint, and any bot settings.
+
+## 4. Run the Bot
+
+python bot.py
+
+## ⚙️ Configuration
+
+    Wallet Address: Add your Solana wallet.
+
+    Target Token: Specify the token address you want to boost.
+
+    Volume Strategy: Choose market making, bundling, or custom strategies.
+
+For more details, visit: DEXVolumeBot.com
 ---
 
 ## 📜 License
