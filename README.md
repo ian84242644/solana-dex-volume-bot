@@ -1,6 +1,6 @@
-# Solana DEX Volume Bot 🚀
+# Solana Volume Bot 🚀
 
-Welcome to **Solana DEX Volume Bot**, a powerful **market maker bot** and **volume booster** designed for the **Solana blockchain**. This bot helps token creators and investors increase **DEX token volume**, improve liquidity, and boost visibility on platforms like **Raydium** and **Pump.fun**.
+Welcome to **Solana Volume Bot**, a powerful **market maker bot** and **volume booster** designed for the **Solana blockchain**. This bot helps token creators and investors increase **DEX token volume**, improve liquidity, and boost visibility on platforms like **Raydium** and **Pump.fun**.
 
 🔗 [Learn more at DEXVolumeBot.com](https://dexvolumebot.com/)
 
