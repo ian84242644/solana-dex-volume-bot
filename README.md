@@ -79,6 +79,23 @@ python bot.py
 
     Volume Strategy: Choose market making, bundling, or custom strategies.
 
+
+## ⚙️ Configuration Example
+
+Create a `config.json` file in the project root directory with the following content:
+
+```json
+{
+  "wallet_address": "YOUR_SOLANA_WALLET_ADDRESS",
+  "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+  "target_token": "TOKEN_ADDRESS_TO_BOOST",
+  "strategy": "market_maker",  // Options: market_maker, bundle, orbit, moonshot
+  "volume_target": 5000,       // Target volume in SOL
+  "max_slippage": 0.5          // Max allowed slippage percentage
+}
+
+
+
 For more details, visit: DEXVolumeBot.com
 ---
 
