@@ -5,7 +5,8 @@ Welcome to **Solana DEX Volume Bot**, a powerful **market maker bot** and **volu
 🔗 [Learn more at DEXVolumeBot.com](https://dexvolumebot.com/)
 
 ---
-![Solana DEX Volume Bot](https://i.imgur.com/MkU8fj2.png)
+![Solana DEX Volume Booster](https://i.imgur.com/xI9QzJY.png)
+
 
 
 ## 🔥 Features
